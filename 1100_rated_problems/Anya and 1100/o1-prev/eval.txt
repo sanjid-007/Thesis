@@ -1,0 +1,3 @@
+number of correct answer 70
+number of wrong answer 30
+Accuracy 70
