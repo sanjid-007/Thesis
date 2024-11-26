@@ -1,0 +1,3 @@
+number of correct answer 47
+number of wrong answer 53
+Accuracy 47
