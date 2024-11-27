@@ -1,0 +1,3 @@
+number of correct answer 98
+number of wrong answer 2
+Accuracy 98
